@@ -3,6 +3,7 @@
 ## 1. Word2Vec
 Write a program that trains Word2Vec model. 
 >Input: data (string) - cleaned documents without punctuation in one line
+
 >Output: w2v_dict (dict: key (string) - a word from vocabulary, value (numpy array) - the word's embedding)
 
 ## 2. Toxic comments
