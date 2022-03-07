@@ -7,6 +7,7 @@ Write a program that trains Word2Vec model.
 >Output: w2v_dict (dict: key (string) - a word from vocabulary, value (numpy array) - the word's embedding)
 
 Time limit: 25 seconds
+
 Memory limit: 128 MB
 
 ## 2. Toxic comments
